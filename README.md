@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-Agents-green?logo=langchain)
-![SymPy](https://img.shields.io/badge/SymPy-Solver-orange)
 
 **Math Mentor AI** is an advanced educational tool designed to help students understand math, not just get the answer. It combines the power of symbolic computation (SymPy) with the flexibility of Large Language Models (LLMs) and RAG (Retrieval-Augmented Generation) to verify, solve, and explain problems step-by-step.
 
